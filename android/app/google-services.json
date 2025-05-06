@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "936499118979",
+    "project_id": "localserviceprovider-3e935",
+    "storage_bucket": "localserviceprovider-3e935.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936499118979:android:95613472a277e8f3d5acb6",
+        "android_client_info": {
+          "package_name": "com.superior.student.localserviceprovider"
+        }
+      },
+      "oauth_client": [{
+        "client_id": "your-oauth-client-id.apps.googleusercontent.com",
+        "client_type": 1,
+        "android_info": {
+          "package_name": "localserviceprovider",
+          "certificate_hash": "your-sha1-fingerprint"
+        }
+      }],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWtqbLUlAQvX6BUM43YUukI68DELcip1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
